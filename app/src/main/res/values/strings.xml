@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAmakentest1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rest1">Rest1</string>
+    <string name="title_activity_one_way">OneWay</string>
+    <string name="title_activity_banks">Banks</string>
+    <string name="title_activity_mobile_services">MobileServices</string>
+    <string name="title_activity_grocery">Grocery</string>
+    <string name="title_activity_markets">Markets</string>
+    <string name="title_activity_cafe">Cafe</string>
+    <string name="title_activity_governmental">Governmental</string>
+    <string name="title_activity_exchange">Exchange</string>
+    <string name="title_activity_gym">Gym</string>
+    <string name="title_activity_one_qay_maps">Map</string>
+</resources>
